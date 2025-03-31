@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chams Ben Said and I'm an IT Engineering student, specializing in Data Science, from Tunisia 🌍</h2>
+<h2 align="left">Hi 👋! My name is Chams Ben Said and I'm an IT Engineering student, specializing in Data Science</h2>
 
 ###
 
@@ -26,8 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Laravel.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -40,7 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Power_BI_Logo.svg" height="30" alt="powerbi logo"  />
 </div>
 
 ###
