@@ -17,8 +17,8 @@ I'm an engineering student specializing in **Data Science**, with experience in 
 </div>  
 
 ## 📊 GitHub Stats  
-![Chams' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChamsBenSaid&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamsBenSaid&layout=compact&theme=tokyonight)  
+![Chams' GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenSaid23&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenSaid23&layout=compact&theme=tokyonight)  
 
 ## 🌍 Connect with me  
 <div>  
