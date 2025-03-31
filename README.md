@@ -22,7 +22,9 @@ I'm an engineering student specializing in **Data Science**, with experience in 
   <img align="center" alt="Chams-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Chams-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Chams-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Chams-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
+  <img align="center" alt="Chams-Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Laravel.svg">
+<img align="center" alt="Chams-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Power_BI_Logo.svg">
+
 </div>  
 
 ---
